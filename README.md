@@ -1,7 +1,6 @@
 <!-- ABOUT Section Starts -->
 
-<img src="https://media.giphy.com/media/4hEXZkLCVRWT10J8ei/giphy.gif" width="250"><img src="https://media.giphy.com/media/jFGVEmvuy8RptnVXQh/giphy.gif" alt="name" width="260" align="top">
-
+<img src="https://media.giphy.com/media/4hEXZkLCVRWT10J8ei/giphy.gif" width="290"><img src="https://media.giphy.com/media/jFGVEmvuy8RptnVXQh/giphy.gif" alt="name" width="280" align="top"> 
 <br>
 <!-- Add your details -->
 <img src="https://media.giphy.com/media/kcghhjaUcFjeK85t8d/giphy.gif" width="170">
