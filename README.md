@@ -5,7 +5,3 @@
 - 💞️ Looking to create some value in the Fintech space & aspire to build my own algo-trading model!
 - 📫 How to reach me? --> louiselsr@gmail.com
 
-<!---
-LearnShareRefine/LearnShareRefine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
