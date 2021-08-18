@@ -27,4 +27,7 @@
 [<img src="https://media.giphy.com/media/sbcsRYc8NIeHreuMoN/giphy.gif" width="170">](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=louiselsr@gmail.com)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnsharerefine)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnsharerefine&show_icons=true)  
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnsharerefine&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnsharerefine)](https://github.com/anuraghazra/github-readme-stats) 
