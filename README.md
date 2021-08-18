@@ -19,8 +19,7 @@
 <img src="https://media.giphy.com/media/lOf7S3ISJ60dTsdkZ8/giphy.gif" width="150"> <img src="https://media.giphy.com/media/J6Rk78KvVmBlaOYBuA/giphy.gif" width="150">
 <img src="https://media.giphy.com/media/lmwdEN4N7UYKrrIyZo/giphy.gif" width="150">
 <br>
-<br>
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 <br>
 <img src="https://media.giphy.com/media/F5n6giZyKlcEfCNIr7/giphy.gif" width="160">
 
@@ -28,4 +27,7 @@
 [<img src="https://media.giphy.com/media/TCDHWnJYNRdHdOOzl4/giphy.gif" width="170">](https://learnsharerefine.github.io/)
 [<img src="https://media.giphy.com/media/sbcsRYc8NIeHreuMoN/giphy.gif" width="170">](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=louiselsr@gmail.com)
 
-
+<br>
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
