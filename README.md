@@ -29,4 +29,4 @@
 <br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnsharerefine&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnsharerefine)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnsharerefine&show_icons=true)
