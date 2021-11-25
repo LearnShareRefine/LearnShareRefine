@@ -1,9 +1,7 @@
 <!-- ABOUT Section  -->
-
+## Louise Law <br>
 <img src="https://media.giphy.com/media/4hEXZkLCVRWT10J8ei/giphy.gif" width="290"><img src="https://media.giphy.com/media/jFGVEmvuy8RptnVXQh/giphy.gif" alt="name" width="280" align="top"> 
 <br>
-<!-- details -->
-<img src="https://media.giphy.com/media/kcghhjaUcFjeK85t8d/giphy.gif" width="170">
 
 👩‍💻 On my journey to become a fintech and data specialist
 -- Excited to dive into fintech innovations and embark on a digital journey in the financial services landscape.
