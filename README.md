@@ -1,6 +1,6 @@
 <!-- ABOUT Section  -->
 ## Louise Law <br>
-<img src="https://media.giphy.com/media/4hEXZkLCVRWT10J8ei/giphy.gif" width="290"><img src="https://media.giphy.com/media/jFGVEmvuy8RptnVXQh/giphy.gif" alt="name" width="280" align="top"> 
+<img src="https://media.giphy.com/media/4hEXZkLCVRWT10J8ei/giphy.gif" width="290">
 <br>
 
 👩‍💻 On my journey to become a fintech and data specialist
